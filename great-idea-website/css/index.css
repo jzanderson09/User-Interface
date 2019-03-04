@@ -75,6 +75,7 @@ h1, h2, h3, h4, h5 {
 	margin-bottom: 10px;
 	position: fixed;
 	background: hsla(231, 23%, 65%, 0.5);
+	border-radius: 10%;
 }
 
 .links-and-logo nav a {
@@ -88,7 +89,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .links-and-logo nav a:hover {
-	color: black;
+	color: white;
 	text-decoration: underline;
 }
 
